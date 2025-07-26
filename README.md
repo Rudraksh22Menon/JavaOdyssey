@@ -9,7 +9,7 @@ I’ll be sharing everything I practice, from basic syntax to advanced topics, a
 ## 📌 What’s Inside?
 I’ve split my learnings into different branches so things stay clean and organized:
 
-- **[Basics](https://github.com/Rudraksh22Menon/JavaOdyssey/tree/basics)**  
+- **[Basics](https://github.com/Rudraksh22Menon/JavaOdyssey/tree/Basics)**  
   Starting with the foundation — variables, data types, loops, arrays, and other core concepts.
 
 - **[OOP](https://github.com/<Rudraksh22Menon/JavaOdyssey/tree/oop)**  

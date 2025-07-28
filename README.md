@@ -12,7 +12,7 @@ I’ve split my learnings into different branches so things stay clean and organ
 - **[Basics](https://github.com/Rudraksh22Menon/JavaOdyssey/tree/Basics)**  
   Starting with the foundation — variables, data types, loops, arrays, and other core concepts.
 
-- **[OOP](https://github.com/<Rudraksh22Menon/JavaOdyssey/tree/OOPS)**  
+- **[OOP](https://github.com/Rudraksh22Menon/JavaOdyssey/tree/OOPS)**  
   Diving into Object-Oriented Programming — classes, inheritance, polymorphism, and more.
 
 - **[DSA](https://github.com/Rudraksh22Menon/JavaOdyssey/tree/dsa)**  

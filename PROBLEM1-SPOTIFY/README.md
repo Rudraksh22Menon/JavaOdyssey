@@ -2,11 +2,11 @@
 
 Create a class Spotify with the below attributes:
 
-spotifyId - int
-profileName - String
-subscriptionType - String
-subscription Price - double
-groupSessionAvailable - String
+spotifyId - int<br>
+profileName - String<br>
+subscriptionType - String<br>
+subscription Price - double<br>
+groupSessionAvailable - String<br>
 
 The above attributes should be private, write getters, setters and parameterized constructor as required.
 

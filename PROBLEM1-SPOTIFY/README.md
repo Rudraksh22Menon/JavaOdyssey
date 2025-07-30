@@ -33,32 +33,32 @@ Next, read two String values for capturing subscription type and groupSession av
 
 Consider below sample input and output:
 
-Testcasel:
+Testcase l:
 
 Input:
 
-1001
-John
-Yearly
-1000
-Yes
-1002
-Wick
-Monthly
-200
-Yes
-1003
-Jack
-Yearly
-2000
-Yes
-1004
-Jack
-Monthly
-199
-No
-Yearly
-Yes
+1001<br>
+John<br>
+Yearly<br>
+1000<br>
+Yes<br>
+1002<br>
+Wick<br>
+Monthly<br>
+200<br>
+Yes<br>
+1003<br>
+Jack<br>
+Yearly<br>
+2000<br>
+Yes<br>
+1004<br>
+Jack<br>
+Monthly<br>
+199<br>
+No<br>
+Yearly<br>
+Yes<br>
 
 Output:
 

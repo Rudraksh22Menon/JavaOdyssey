@@ -15,7 +15,7 @@ I’ve split my learnings into different branches so things stay clean and organ
 - **[OOP](https://github.com/Rudraksh22Menon/JavaOdyssey/tree/OOPS)**  
   Diving into Object-Oriented Programming — classes, inheritance, polymorphism, and more.
 
-- **[DSA](https://github.com/Rudraksh22Menon/JavaOdyssey/tree/dsa)**  
+- **[DSA](https://github.com/Rudraksh22Menon/JavaOdyssey/tree/DSA)**  
   Tackling Data Structures and Algorithms — arrays, linked lists, stacks, queues, trees, and problem-solving.
 
 - **[Advanced](https://github.com/Rudraksh22Menon/JavaOdyssey/tree/advanced)**  

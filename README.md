@@ -1,6 +1,6 @@
 # 🟢 Java Basics – Daily Practice
 
-Welcome to the **Basics branch** of my JavaOdyssey repo!  
+Welcome to the **Basics branch** of JavaOdyssey
 This branch contains my **daily practice programs** covering the core Java fundamentals.
 
 ---
